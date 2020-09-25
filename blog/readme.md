@@ -42,3 +42,8 @@ Durante esta sección el alumno conocerá los temas que se habrá de tratar dura
 4. :book: [Código y ejecución](docs/D4.0_Codigo_y_ejecucion.md)
 
 Para conocer el temario en detalle seleccione [aquí](pdf/ADF-1702_AnálisisAvanzadoDeSoftware.pdf).
+
+# Diagrama de Flujo
+[diag_clases]: https://raw.githubusercontent.com/iztmool/analisis-avanzado-de-software/master/blog/diagrams/DiagramaClases.drawio.png?token=ARAOWWHGBEVMH7S54BH6BKC7NVGEE
+
+![bg][diag_clases]
