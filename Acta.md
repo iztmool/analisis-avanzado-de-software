@@ -170,7 +170,4 @@ ___
 
 ## <img  style="vertical-align: middle; margin-bottom: 5px;" src="https://www.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" width="30" height="30"/> GitHub
 
-* [Enlace al repositorio](https://github.com/ITT-2153/ANALISIS_SOFTWARE-CUEVAS)
-* [Enlace a la actividad en pdf](../pdf/C1.2_JoseLuisCuevas_Softonic.pdf)
-
-:house: [Ir al índice](../README.md)
+<a href="https://github.com/iztmool/analisis-avanzado-de-software" target="_blank">GitHub</a>
